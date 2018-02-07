@@ -1,0 +1,16 @@
+{
+  "name": "Weekend1_Salary_Calc_Node",
+  "version": "1.0.0",
+  "description": "Create an application that records employee salaries and adds salaries up to report monthly costs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
